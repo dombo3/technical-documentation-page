@@ -1,7 +1,5 @@
 # FreeCodeCamp Technical Documentation Page
 
-Practice...;
+Practice mobile first design and flexbox;
 
-[Preview site](https://???.vercel.app/)
-
-![Desktop](./image/*.png)
+[Preview site](https://technical-documentation-page-two.vercel.app/)
