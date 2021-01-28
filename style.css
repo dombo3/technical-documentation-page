@@ -23,7 +23,6 @@ h1 {
   flex-direction: column;
   overflow: auto;
   height: 250px;
-  scrollbar-width: auto;
 }
 
 #link-container a {
@@ -40,7 +39,6 @@ h1 {
 @media (min-width: 815px) {
   #navbar {
     border-right: 3px solid #444;
-    float: left;
     position: fixed;
     height: 100vh;
   }
@@ -55,7 +53,7 @@ h1 {
 
   #link-container {
     border: none;
-    height: initial;
+    height: calc(100% - 100px);
   }
 
   #main-doc {
